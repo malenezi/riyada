@@ -1,0 +1,2 @@
+investor,type,stage_focus,ticket_min,ticket_max,fit_reason,warm_intro_via,contact,status,last_contact,next_step,next_step_date,notes
+Example Fund (replace),vc,seed,500000,3000000,invests in B2B SaaS in the region,name of mutual contact,partner name,researching,,request introduction,2026-01-15,status values: researching | intro requested | first meeting | follow-up | diligence | term sheet | passed | closed

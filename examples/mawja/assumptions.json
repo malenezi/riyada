@@ -1,0 +1,25 @@
+{
+  "company": "Mawja (fictional example)",
+  "currency": "SAR",
+  "start": "2027-01",
+  "months": 36,
+  "starting_cash": 500000,
+  "new_customers_month_1": 8,
+  "new_customer_growth": 0.07,
+  "monthly_churn": 0.025,
+  "revenue_per_customer": 450,
+  "gross_margin": 0.78,
+  "acquisition_cost_per_customer": 1800,
+  "other_opex_month_1": 18000,
+  "other_opex_growth": 0.01,
+  "team": [
+    { "role": "Founder, product", "monthly_cost": 12000, "start_month": 1 },
+    { "role": "Founder, sales", "monthly_cost": 12000, "start_month": 1 },
+    { "role": "Engineer", "monthly_cost": 16000, "start_month": 4 },
+    { "role": "Account executive", "monthly_cost": 10000, "start_month": 10 },
+    { "role": "Customer success", "monthly_cost": 8000, "start_month": 13 }
+  ],
+  "funding": [
+    { "month": 9, "amount": 2000000, "label": "Seed round" }
+  ]
+}

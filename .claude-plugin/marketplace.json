@@ -1,0 +1,14 @@
+{
+  "name": "riyada",
+  "owner": { "name": "Mamdouh Alenezi", "url": "https://github.com/malenezi" },
+  "metadata": { "description": "Entrepreneur skills, context and templates for the agentic era, in Arabic and English", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "riyada",
+      "source": "./",
+      "description": "Nine skills for founders: opportunity discovery, market research, business planning, financial modelling, fundraising, go-to-market, scaling, context engineering and agent operations, with bilingual templates and scripts that check the output.",
+      "category": "business",
+      "tags": ["entrepreneurship", "startup", "arabic", "agents"]
+    }
+  ]
+}

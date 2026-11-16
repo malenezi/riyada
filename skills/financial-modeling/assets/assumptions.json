@@ -1,0 +1,22 @@
+{
+  "_help": "Replace every value. Rates are decimals per month (0.03 = 3%). Months are counted from 1. Run: python scripts/build_model.py assumptions.json --out model --lang en",
+  "company": "Your company",
+  "currency": "SAR",
+  "start": "2027-01",
+  "months": 36,
+  "starting_cash": 0,
+  "new_customers_month_1": 0,
+  "new_customer_growth": 0.0,
+  "monthly_churn": 0.0,
+  "revenue_per_customer": 0,
+  "gross_margin": 0.0,
+  "acquisition_cost_per_customer": 0,
+  "other_opex_month_1": 0,
+  "other_opex_growth": 0.0,
+  "team": [
+    { "role": "Founder", "monthly_cost": 0, "start_month": 1 }
+  ],
+  "funding": [
+    { "month": 1, "amount": 0, "label": "Round or grant" }
+  ]
+}
