@@ -190,6 +190,13 @@ Edit files in `templates/`, `context/` and `shared/`, then run `python tools/syn
 
 This repository gives structure, method and checks. It does not give legal, tax, accounting or investment advice, and it does not know your market: the numbers and facts must come from you and your sources. Rules on company formation, fundraising instruments, data protection, marketing consent and employment differ by country and change; confirm them with a qualified adviser where you operate.
 
+## Related repositories
+
+Riyada stands on its own. Two sister repositories by the same author use it or complement it:
+
+- [Saudi Agentic AI Entrepreneurship Academy](https://github.com/malenezi/saudi-agentic-ai-entrepreneurship-academy): an Arabic-first curriculum and Saudi market knowledge base. It maps Riyada's skills, templates and workflows to its four courses and adds [lab exercises](https://github.com/malenezi/saudi-agentic-ai-entrepreneurship-academy/tree/main/05-agentic-ai-lab/exercises) built on the context linter and the model builder. Rules specific to Saudi Arabia live there, not here. See its [companion repositories page](https://github.com/malenezi/saudi-agentic-ai-entrepreneurship-academy/blob/main/07-resources/companion-repositories.md).
+- [Bayan](https://github.com/malenezi/bayan): Arabic-first skills and linters for bilingual websites, HTML decks, RTL audits and interface text. Use it to build what the go-to-market and fundraising skills plan.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). New templates, sector adaptations, corrections to Arabic or English wording, and reports from real use are all welcome.
