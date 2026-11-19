@@ -199,7 +199,7 @@ Riyada stands on its own. Two sister repositories by the same author use it or c
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). New templates, sector adaptations, corrections to Arabic or English wording, and reports from real use are all welcome.
+See [CONTRIBUTING.md](CONTRIBUTING.md) and the [roadmap](ROADMAP.md). New templates, sector adaptations, corrections to Arabic or English wording, and reports from real use are all welcome.
 
 ## Licence
 
