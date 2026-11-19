@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- README (English and Arabic): the related-repositories section now says which Riyada workflow runs alongside which course of the Saudi Agentic AI Entrepreneurship Academy, with links to Courses 1 and 2.
+
 ## 1.0.0 (2026-11-16)
 
 First release.
