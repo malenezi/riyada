@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+Nothing yet.
+
+## 1.0.1 (2026-11-19)
+
+Documentation release. No skill, template or script changed; skill versions stay at 1.0.0.
+
+- `ROADMAP.md`: priorities for 1.1, 1.2 and 2.0, and what is not planned.
+- Code of conduct and security policy.
 - README (English and Arabic): the related-repositories section now says which Riyada workflow runs alongside which course of the Saudi Agentic AI Entrepreneurship Academy, with links to Courses 1 and 2.
 
 ## 1.0.0 (2026-11-16)
